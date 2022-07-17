@@ -24,7 +24,7 @@ void set_channel(int channel);
 
 uint8_t get_irq();
 
-# Configurations: 
+# Settings: 
 
 Channel(1-126)
 lenBuff(1-32)
